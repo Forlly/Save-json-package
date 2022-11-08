@@ -1,0 +1,11 @@
+{
+  "name": "com.forlly.savejsonpackage",
+  "version": "1.0.0",
+  "displayName": "Forlly Save Json Package",
+  "description": "This package is designed to save and load data in json.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Elizaveta Vorobeva",
+    "email": "forrrllly@gmail.com"
+  }
+}
